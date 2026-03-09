@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋, I'm Anupam Yadav
 
-<!--
-**anupam-yadav1/anupam-yadav1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student at Quantum University, Roorkee  
+💻 Aspiring Software Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on **Programming and Data Structure Projects**  
+🌱 I’m currently learning **Data Structures & Algorithms and Data Analytics**  
+
+### 🛠 Skills
+- C  
+- C++  
+- Data Structures and Algorithms (DSA)  
+- JavaScript  
+- HTML  
+- CSS  
+
+🎯 **Goal:** To become a strong problem solver and software developer  
+
+---
+
+### 📫 Contact Me
+📧 Email: anupamyadav8097@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/anupam-yadav-15656028b
